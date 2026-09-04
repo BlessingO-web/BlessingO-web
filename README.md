@@ -1,29 +1,22 @@
 ### Hi, I’m Blessing 👋
 
-Cloud & DevOps Engineer building hands-on experience in cloud infrastructure, automation, CI/CD, and system reliability.
+I’m a Cloud & DevOps Engineer with a growing focus on product, security, and technical solutions.
 
-Earlier in my career, I worked in client-facing roles where I supported customers, managed relationships, and helped drive business results. That experience shaped how I think about technology today: not just as tools, but as systems that must work reliably for people and teams.
+My experience sits at the intersection of technology, customer needs, and problem-solving. I enjoy understanding a problem, breaking it down, and thinking about how technology can provide a practical solution.
 
-Since moving into Cloud and DevOps, I have worked with AWS, Terraform, Docker, GitHub Actions, Linux, and monitoring tools like CloudWatch and Datadog to build and support secure, scalable, and observable environments. I’m especially interested in automation, infrastructure design, troubleshooting, and the connection between technical solutions and business needs.
+On the technical side, I work with AWS, Terraform, Docker, Kubernetes, Linux, GitHub Actions, and cloud monitoring and security tools. I’ve also gained hands-on exposure to container security using technologies such as Falco, KubeArmor, and DVWA.
 
-#### Tech I work with:
-- AWS (EC2, IAM, VPC, S3, CloudFront, ECR, Lambda, Config)
-- Terraform
-- Docker
-- GitHub Actions
-- Linux (Ubuntu), Bash
-- CloudWatch, Datadog
-- Postman, REST APIs
+My client-facing experience has also helped me develop a strong understanding of how technical solutions need to connect with real business and user needs. I enjoy translating technical capabilities into solutions that are easier for people and organisations to understand and use.
 
-#### What I’m doing now:
-- Building hands-on DevOps and cloud projects
-- Strengthening my skills in infrastructure automation and CI/CD
-- Growing into more solutions-focused and pre-sales-oriented technical work
-- Seeking opportunities in Cloud, DevOps, Infrastructure, and Solutions Engineering
+I’m particularly interested in Product Management, Cloud Security, DevOps, Cloud Infrastructure, and technical solutions — especially products that solve real problems and make complex technology simpler for users.
 
-#### Featured Projects:
-- **AWS Resource Tracker** — Bash + AWS CLI tool for tracking cloud resources
-- **CI/CD Flask App** — Dockerized Flask application with automated CI/CD using GitHub Actions
+What I’m currently focused on:
+Building and supporting cloud infrastructure
+Infrastructure automation with Terraform
+CI/CD and cloud-native technologies
+Cloud and container security
+Understanding user problems and defining practical solutions
+Growing my product management and technical product skills
+Exploring AI-assisted workflows and automation
 
-#### Let’s connect:
-- LinkedIn: www.linkedin.com/in/blessing-ogbonna
+I’m always open to learning, collaborating, and connecting with people working across Cloud, DevOps, Cybersecurity, Product, and Technology.
